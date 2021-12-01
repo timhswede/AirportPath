@@ -1,9 +1,9 @@
 LAX    Los Angeles
-SFO    San Francisco
-DFW    Denver
-ORD    Chicago
-BOS    Boston
-JFK    New York
 MIA    Miami
-MSY    New Orleans
+DFW    Denver
 SEA    Seattle
+ORD    Chicago
+JFK    New York
+BOS    Boston
+SFO    San Francisco
+MSY    New Orleans
