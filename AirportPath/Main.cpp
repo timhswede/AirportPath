@@ -242,9 +242,9 @@ public:
 
 int main() {
 
-	cout << "Airport Menu:\n1. Display airport information\n2. Find a cheapest flight from on airport to another airport\n3. Find a cheapest roundtrip from one airport to another airport\n"
-		<< "4. Add a flight from one airport to another airport\n5. Delete a flight from one airport to another airport\n"
-		<< "6. Find a flight with fewest stops from one airport to another airport\n7. Find all flights from one airport to another airport\n"
+	cout << "Airport Menu:\n1. Show all airport information\n2. Look for cheapest flight\n3. Look for cheapest roundtrip\n"
+		<< "4. Add a new flight\n5. Delete an exisiting flight\n"
+		<< "6. Find a flight with fewest stops\n7. Find all flights possible from one airport to another airport\n"
 		<< "Q. Exit\n\n";
 
 	MatrixGraph graph;
